@@ -235,4 +235,4 @@ This repository serves as the official landing page for Owely. The software is d
 **Get the most recent version of Owely today!**
 
 ---
-**Last updated:** 2026-11-03 02:41:34 UTC
+**Last updated:** 2026-11-03 10:10:11 UTC
